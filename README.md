@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://img.alicdn.com/imgextra/i3/O1CN01FZeXqK1XjGsLAR6LX_!!6000000002959-2-tps-128-128.png" alt="logo"/>
-<h1>MaxCompute Search Tables (by DataWorks) Chrome Extension</h1>
+<h1>DataWorks Search Tables Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
