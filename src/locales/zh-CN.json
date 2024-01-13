@@ -1,6 +1,6 @@
 {
-  "appName": "DataWorks 搜表",
-  "appDescription": "一款无与伦比的DataWorks搜表扩展，让您可以在Chrome Omnibox上直接搜表。",
+  "appName": "阿里云 DataWorks 搜表",
+  "appDescription": "一款无与伦比的阿里云DataWorks搜表扩展，让您可以在Chrome Omnibox上直接搜表。",
   "options": "设定",
   "save": "保存",
   "saveSuccess": "保存成功",
