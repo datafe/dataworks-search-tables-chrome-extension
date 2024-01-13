@@ -9,7 +9,9 @@
     "DataWorks",
     "MaxCompute",
     "Search",
-    "Table"
+    "Table",
+    "Aliyun",
+    "Alibaba"
   ],
   "author": "Samuel Hsin <caramels@gmail.com> (https://github.com/datafe)",
   "license": "Apache-2.0",
