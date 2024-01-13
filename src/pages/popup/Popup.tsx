@@ -66,7 +66,7 @@ const Popup: React.FC<IProps> = () => {
   useEffect(() => {
 
     // did mount
-    document.title = intl.get('appName').d('DataWorks 搜表');
+    document.title = intl.get('appName').d('阿里云 DataWorks 搜表');
 
     // when popup open
     chrome.runtime.onMessage.addListener(onQueryTables);
