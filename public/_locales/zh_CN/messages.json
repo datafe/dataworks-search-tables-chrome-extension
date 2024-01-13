@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "DataWorks 搜表"
+  },
+  "appDescription": {
+    "message": "一款无与伦比的DataWorks搜表扩展，让您可以在Chrome Omnibox上直接搜表。"
+  },
+  "inputTableNameTip": {
+    "message": "至 DataWorks 数据地图"
+  },
+  "tableName": {
+    "message": "表名"
+  },
+  "searchResultPrefix": {
+    "message": "表详情"
+  },
+  "mcTable": {
+    "message": "MC 表"
+  },
+  "emrTable": {
+    "message": "EMR 表"
+  },
+  "holoTable": {
+    "message": "Hologres 表"
+  }
+}

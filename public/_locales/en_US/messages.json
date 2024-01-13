@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "DataWorks Table Search"
+  },
+  "appDescription": {
+    "message": "A extraordinary search tables chrome extension, let you search tables in Chrome omnibox."
+  },
+  "inputTableNameTip": {
+    "message": "Goto DataWorks Data Map"
+  },
+  "tableName": {
+    "message": "Table"
+  },
+  "searchResultPrefix": {
+    "message": "Table Details"
+  },
+  "mcTable": {
+    "message": "MC Table"
+  },
+  "emrTable": {
+    "message": "EMR Table"
+  },
+  "holoTable": {
+    "message": "Hologres Table"
+  }
+}
