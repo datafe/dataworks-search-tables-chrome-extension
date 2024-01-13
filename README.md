@@ -17,9 +17,14 @@
 操作影片
 - [YouTube](https://www.youtube.com/watch?v=aCjk6-mTys8)
 
-![image](https://img.alicdn.com/imgextra/i1/O1CN01tfWjcY1wJ2aMmC6xC_!!6000000006286-0-tps-1280-800.jpg)
-![image](https://img.alicdn.com/imgextra/i4/O1CN01vp5h5j26A0w8xvtLz_!!6000000007620-0-tps-1280-800.jpg)
-![image](https://img.alicdn.com/imgextra/i3/O1CN012rIi4I1RBwM8OIxOX_!!6000000002074-0-tps-1280-800.jpg)
+URL 框搜索 (支持跳转 DataWorks 数据地图)
+![image](https://img.alicdn.com/imgextra/i2/O1CN01e2Nrqe1RDlwT2dL7Z_!!6000000002078-0-tps-1474-256.jpg)
+
+插件设定页
+![image](https://img.alicdn.com/imgextra/i3/O1CN019nzShk1DWBEt2Jxia_!!6000000000223-0-tps-2878-1664.jpg)
+
+插件页面
+![image](https://img.alicdn.com/imgextra/i3/O1CN01Hxs4sR1gQL2kNnFFb_!!6000000004136-0-tps-800-658.jpg)
 
 
 ## Table of Contents
