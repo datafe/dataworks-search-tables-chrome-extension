@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://img.alicdn.com/imgextra/i3/O1CN01FZeXqK1XjGsLAR6LX_!!6000000002959-2-tps-128-128.png" alt="logo"/>
-<h1>DataWorks Search Tables Chrome Extension</h1>
+<img src="https://img.alicdn.com/imgextra/i3/O1CN01x1h8rS1kYoq175pqs_!!6000000004696-2-tps-128-128.png" alt="logo"/>
+<h1>MaxCompute Search Tables (by DataWorks) Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -10,17 +10,25 @@
 
 ## Usage Documents
 
+[知乎](https://zhuanlan.zhihu.com/p/674153689)
+[掘金](https://juejin.cn/post/7316539465023045632)
+[medium](https://medium.com/@caramels/%E5%9F%BA%E4%BA%8E-chrome-%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1-api-347779692485)
+
 ## Demo
 
-应用安装 Extension Installation
+应用安装 Extension Installation [Link](https://chromewebstore.google.com/detail/%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1api/ohdabcajdgjfjpfhoghpkiifbchoonja)
 
 操作影片
-- [YouTube](https://www.youtube.com/watch?v=aCjk6-mTys8)
+- [YouTube](https://www.youtube.com/watch?v=OzVneLAhxZM)
+- [b站](https://www.bilibili.com/video/BV1ne411S7bc/)
 
-![image](https://img.alicdn.com/imgextra/i1/O1CN01tfWjcY1wJ2aMmC6xC_!!6000000006286-0-tps-1280-800.jpg)
-![image](https://img.alicdn.com/imgextra/i4/O1CN01vp5h5j26A0w8xvtLz_!!6000000007620-0-tps-1280-800.jpg)
-![image](https://img.alicdn.com/imgextra/i3/O1CN012rIi4I1RBwM8OIxOX_!!6000000002074-0-tps-1280-800.jpg)
+![image](https://img.alicdn.com/imgextra/i2/O1CN01dfsLY626A0vusJcw5_!!6000000007620-49-tps-2716-1534.webp)
 
+![image](https://img.alicdn.com/imgextra/i4/O1CN015IkPOv21v7anw9Xtl_!!6000000007046-0-tps-2878-1504.jpg)
+
+![image](https://img.alicdn.com/imgextra/i1/O1CN01ZbBncz26PaOo35YPY_!!6000000007654-49-tps-2878-1664.webp)
+
+![image](https://img.alicdn.com/imgextra/i2/O1CN01f83rzJ1unbmfy62Yh_!!6000000006082-49-tps-2878-1662.webp)
 
 ## Table of Contents
 
