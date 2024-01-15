@@ -12,7 +12,9 @@
 
 ## Demo
 
-### 应用安装 Extension Installation [link](https://chromewebstore.google.com/detail/dataworks-%E6%90%9C%E8%A1%A8/pchandealfkoepcpkddkijpfiglgjkgi?hl=en)
+### 应用安装 Extension Installation 
+
+- 插件安装地址 [link](https://chromewebstore.google.com/detail/dataworks-%E6%90%9C%E8%A1%A8/pchandealfkoepcpkddkijpfiglgjkgi?hl=en)
 
 ### 操作影片
 - [YouTube](https://www.youtube.com/watch?v=aCjk6-mTys8)
