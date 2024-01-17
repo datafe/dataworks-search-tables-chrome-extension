@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-maxcompute-search-tables",
+  "name": "chrome-extension-dataworks-search-tables",
   "version": "1.0.1",
-  "description": "chrome extension maxcompute search tables",
+  "description": "chrome extension dataworks search tables",
   "keywords": [
     "dataservice",
     "API",
